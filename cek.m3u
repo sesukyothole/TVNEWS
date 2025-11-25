@@ -76,16 +76,35 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
 http://49.0.64.96:8007/NBA
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="", GOLF HD
 http://49.0.64.96:8007/GOLF
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="ShareExt@Relax",SONY SPORTS 1 HD (TATA)
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="",SONY SPORTS 1 HD (TATA)
 http://66.102.120.18:8000/play/a002/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="ShareExt@Relax",SONY SPORTS 2 HD (TATA)
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="",SONY SPORTS 2 HD (TATA)
 http://66.102.120.18:8000/play/a01y/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="ShareExt@Relax",SONY SPORTS 3 HD (TATA)
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="",SONY SPORTS 3 HD (TATA)
 http://66.102.120.18:8000/play/a001/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="ShareExt@Relax",SONY SPORTS 5 HD (TATA)
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="",SONY SPORTS 5 HD (TATA)
 http://66.102.120.18:8000/play/a010/index.m3u8
 
 
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="",RT
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="",RT Doc
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="",CGTN
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="",MEKKAH LIVE
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1764089710/ei/DoslacWrIYHT3LUP7pzwqAc/ip/182.253.50.10/id/nPsbf-yRsVs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51679570/txs/51679570%2C51679571%2C51679573/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AdEuB5Rbfh2AbuTXqT1YuunHsYXNar7Szsjo8bq_9xOXIItsSw612cMrpdjlgonSUTbcUpr1tgL8V5Jj/spc/6b0G_C9mqQYMOZLrBxOBDrf2DE7NPtczYC2UGGZZEqd5zDfpjuwt3rk3c8LDuFD5pCU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgfKkR3IxIXrC-l5dswzep30ZbYXg6RKR3Sgk-7vmcUNYCIQDKx_P--ZGY2zTRj2Lrh9mFd292bfpSvRATv6g-E00lKA%3D%3D/file/index.m3u8
+
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="",MADINAH LIVE
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1764089845/ei/lYsladSFHqWBjuMPlfDx4Ag/ip/182.253.50.10/id/TpT8b8JFZ6E.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539830/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5TYNOU-1OaEGtk20UJbHMeX1OfqKK2cU4EDQo9gOhJcMh-ZZdg8ZpyXRC_Fc706yKH09C8DPnHx/spc/6b0G_IulBst8ljQRE2-sZKqGQ5Gl6tjICkL-gosRUpCAmVqSl100x47B/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgMH55y6fZ9FLChkjlf_n27lO0y0qcoRAxwT2j8U_K6bYCIFIpGJXGnlXFIMQu2sQUGZ5lLnGFftLjh7SlyEI-uyO8/file/index.m3u8
+
+
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="",TV ONE
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1764090116/ei/pIwlacvQN_iW4t4Pwd_u6Qw/ip/182.253.50.10/id/yNKvkPJl-tg.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539830/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5Slen4GtJC-mY0d_4X5BYgKA9MSETf8mP7qmPwA5j3DttMfUinpseOevaMIZP8I-aBwgOfCP_tz/spc/6b0G_B88DmvsAy1Rvae101FsP_jK5lKOdSLB-GtCv7bJ6yuKqA7BRxTZ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALidfTTqDYKYoSz8ANaf58gwyfQlil0rs3eFpaVdR2ktAiEAllUJGs4dtH36YfsCWiz16q_HvCC_eDIV4aMRnT9r3k8%3D/file/index.m3u8
