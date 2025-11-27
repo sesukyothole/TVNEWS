@@ -94,18 +94,24 @@ https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 
 
+#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ntqww4hrGiuxudp1ksZmtNDeXQCbOd3Vo_wHccle_Enw=s160-c-k-c0x00ffffff-no-rj" group-title="",SRB 24JAM
+https://yewtu.be/watch?v=bEJFMrKmBb4
+https://invidious.nerdvpn.de/watch?v=bEJFMrKmBb4
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="",MEKKAH LIVE
+https://yewtu.be/watch?v=7-Qf3g-0xEI
 https://invidious.nerdvpn.de/watch?v=7-Qf3g-0xEI
 
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="",MADINAH LIVE
+https://yewtu.be/watch?v=TpT8b8JFZ6E
 https://invidious.nerdvpn.de/watch?v=TpT8b8JFZ6E
 
 
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="",TV ONE
-www.youtube.com/watch?v=yNKvkPJl-tg
+https://invidious.nerdvpn.de/watch?v=yNKvkPJl-tg
+https://yewtu.be/watch?v=yNKvkPJl-tg
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="",KOMPAS TV
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1764090727/ei/B48labXZGf6V4t4P1rip2A0/ip/182.253.50.10/id/DOOrIxw5xOw.110/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539830/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AdEuB5TlnVUmK4Cke4R3cQn01mp7fcQSItcWs672Dm0UpkhnZ6ZILGvzwV9kgygzHW907q_p_EiezbM4/spc/6b0G_BlbKpL4gWbOQ7YiOyG7r3FZhncR8NTSM8AQRv_4oAwTHf70UZYM1BMUUtRgC3g/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgMhTUINJFP04La05xAyPhBQ0zX67fxJwXb5ldPchQNPECIDri4PHlo9aFDE6XZ8nVcFQOD7TVtMJqn1t1fu5XTTNK/file/index.m3u8
@@ -120,8 +126,6 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1764090912/ei/w
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="",iNEWS
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1764091228/ei/_JAlaaSGNpOCjuMP5dboqQg/ip/182.253.50.10/id/QA1e_I1wljk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51679571/txs/51679570%2C51679571%2C51679573/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AdEuB5R54BL987bBuHrYW8TH0Loxv29CRl-5nJBjp985cx9Gr7ugKRYASuqSDoYH_TTNvk4ALJ4dWE_a/spc/6b0G_LzWqeK5qQAfZKu-fBDBaSuaAz6EXFUrzoh6lhKOIvnsK-C6_4e-/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgAUY8qZhjxM5f_tFIsPDz9JTDqdcI-A4b4CTvlqS0SAUCIG99Rf26MmMhZUH7WPI9cW3hjH5OPb4wJ03IYmmK3tKh/file/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ntqww4hrGiuxudp1ksZmtNDeXQCbOd3Vo_wHccle_Enw=s160-c-k-c0x00ffffff-no-rj" group-title="",SRB 24JAM
-https://invidious.nerdvpn.de/watch?v=bEJFMrKmBb4
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="",RODJA TV
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1764092007/ei/B5Qlabi5OKXN2roPvu2q6Qo/ip/182.253.50.10/id/WLGNofdEWiM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51659837/txs/51659836%2C51659837%2C51659838/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5QjdNGnDGlA6VYX1CBdPeGC1i1vkzmc790CgP2YZdZ8eK-q0ajAEzThED8MyYm9YtINXQzjAToe/spc/6b0G_DoUaQGBjuZ9dlIGSPLLLj4wW7qf8au7AOn4EXbUWmgqHRojnjnX/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANZCTLkHn7QyeI58PXpJAx0k7zlM2jJkFsf3ylVvHWBlAiBW8fwywvYk96eZH53Ci6P8lGkxfdZTVsvXEEkjNB1z6A%3D%3D/file/index.m3u8
