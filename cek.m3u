@@ -217,26 +217,25 @@ https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ntqww4hrGiuxudp1ksZmtNDeXQCbOd3Vo_wHccle_Enw=s160-c-k-c0x00ffffff-no-rj" group-title="",SRB 24JAM
-https://yewtu.be/watch?v=bEJFMrKmBb4
-https://invidious.nerdvpn.de/watch?v=bEJFMrKmBb4
+#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ntqww4hrGiuxudp1ksZmtNDeXQCbOd3Vo_wHccle_Enw=s160-c-k-c0x00ffffff-no-rj" group-title="Islam",SRB 24JAM
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1804364514/ei/VcUpaceoKbbT3LUPoMr2-As/ip/112.215.244.102/id/bEJFMrKmBb4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5QsXnWNxczuM-MUo_0U7VDdLteZLRM6zQw9flB-6YGj_aRyjqb92T2SRmngTt-XznTRM88icK6H/spc/6b0G_D1ITuJTtz8YQHXS_tzu6-GQAANLYVSqVDpFX6-OK6iczfE_eXWoPMBU5hqckSc/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgcpAUE1pHJNu4DLsJYgUtWnf8J3VE1tkIZJ0guqJw4nUCIDnZWWluzIZTmiGFdEIaxpkVChMVtEw3qQ9HgB_cbB17/file/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="",MEKKAH LIVE
-http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/makkah.stream/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="Islam",MEKKAH LIVE
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1804364514/ei/grwpabCeMKfc3LUPpq20kQs/ip/112.215.244.102/id/7-Qf3g-0xEI.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AdEuB5TYI5gVWWBI6RwhAFEqZ8I4kW6cDM9xY9F6yY1BzH3MY4-Om2VXDHVQMyfPyafWzJrFMoQg7E2x/spc/6b0G_A7LTlpw8PdWO6BCDC1CAKb8XAX_bxhwVLvZIdUSh-v9qh2XzCZVQkfI1cvuPpg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgK-wRy4kI81EC3Q3TbZdZwPCI6GrP2UZQ2oiDnrpqxksCIQD4HbNhNr98FGsJL6N2mQQTVSy8RuVwzvkp2YdbIMwNBQ%3D%3D/file/index.m3u8
 
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="",MADINAH LIVE
-https://yewtu.be/watch?v=TpT8b8JFZ6E
-https://invidious.nerdvpn.de/watch?v=TpT8b8JFZ6E
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="Islam",MADINAH LIVE
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1804364514/ei/mMQpab6cL9md4t4PnvqrsAs/ip/112.215.244.102/id/TpT8b8JFZ6E.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5Ry7_TDwNEjfFwjZVnTl_cf-RAdVEXLgnfEZ0hCE82u3yCajB1-UR43mNJk_GGlbSRwPirn7QCI/spc/6b0G_PqnLSXiAQTOnXsrfQOPFJDZT4B74sHB3tjpFUYcu8TcQkNG0yRDc_5UcluUsmE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKLtZPO_-cQMYea16pAtLBWvSy50lyLIGiPcflsjm188AiEApxBfhQYEZDGBteMR1O2iSXJXf2W-9ZKo8RdHfkFDrd0%3D/file/index.m3u8
+
 
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="",TV ONE
-https://invidious.nerdvpn.de/watch?v=yNKvkPJl-tg
-https://yewtu.be/watch?v=yNKvkPJl-tg
+
 
 
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Gxy8ywjMY6_YPX-1uYtUGA56FOfDoBsH62-ekNA=s900-c-k-c0x00ffffff-no-rj", Saudi Quran
