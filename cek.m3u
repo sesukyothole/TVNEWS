@@ -123,52 +123,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/zbioskop/manifest.mpd
 
 
 
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="",ANTV
-http://103.170.33.11:9981/stream/channelid/580266225?profile=pass
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="",BN CHANNEL - MDTV
-http://103.170.33.11:9981/stream/channelid/1414401938?profile=pass
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="",GARUDA TV
-http://103.170.33.11:9981/stream/channelid/745960124?profile=pass
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="",INDOSIAR
-http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="",MENTARI
-http://103.170.33.11:9981/stream/channelid/517879230?profile=pass
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="",METRO TV
-http://103.170.33.11:9981/stream/channelid/1929327430?profile=pass
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="",MOJI
-http://103.170.33.11:9981/stream/channelid/1896622786?profile=pass
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="",NUSANTARA TV
-http://103.170.33.11:9981/stream/channelid/133753?profile=pass
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="",RTV
-http://103.170.33.11:9981/stream/channelid/97833158?profile=pas
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="",RTV
-http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="",SCTV
-http://103.170.33.11:9981/stream/channelid/177596259?profile=pass
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="",TRANS 7
-http://103.170.33.11:9981/stream/channelid/602743647?profile=pass
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="",TRANS TV
-http://103.170.33.11:9981/stream/channelid/479667605?profile=pass
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="",TV ONE
-http://103.170.33.11:9981/stream/channelid/1752496345?profile=pass
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="",VTV
-http://103.170.33.11:9981/stream/channelid/548841127?profile=pass
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="",SUKAN_RTM
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="", NBA One HD
-http://49.0.64.96:8007/NBA
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="", GOLF HD
-http://49.0.64.96:8007/GOLF
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="",SONY SPORTS 1 HD (TATA)
-http://66.102.120.18:8000/play/a002/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="",SONY SPORTS 2 HD (TATA)
-http://66.102.120.18:8000/play/a01y/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="",SONY SPORTS 3 HD (TATA)
-http://66.102.120.18:8000/play/a001/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="",SONY SPORTS 5 HD (TATA)
-http://66.102.120.18:8000/play/a010/index.m3u8
-
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="",RT
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
